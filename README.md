@@ -1,16 +1,13 @@
-### Hi there 👋
-
 <!--
 **jirrezx/jirrezx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi :wave:</h1>
+<h3 align="center">I'm known as Jirrez Matheus</h3>
+<br>
+
+- I am currently developer and owner of <code>META VERSO ROLEPLAY</code> and the company <code>ZABITTAT</code> :infinity:
+- I'm currently learning a lot about <code>LUA</code>, it's my favorite programming language; you can say that <code>JavaScript</code> fits as one of them too :seedling:
+- I'm passionate about OpenSource, despite the META VERSO being completely private :heart:
+- My biggest passions, <code>Arch Linux</code>/<code>Gentoo</code> :penguin:
+
+![SeraphyBR's github stats](https://github-readme-stats.vercel.app/api?username=jirrezx&show_icons=true&theme=vue-dark)
