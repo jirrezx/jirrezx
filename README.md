@@ -12,4 +12,4 @@
 - Discord - <a href="https://discord.gg/SHEJQXzV2F">CIDADE VILEZA</a> :video_game:
 - Shop - <a href="https://cidadevileza.hydrus.gg">SHOP CIDADE VILEZA</a> :shopping_cart:
 
-![SeraphyBR's github stats](https://github-readme-stats.vercel.app/api?username=jirrezx&show_icons=true&theme=vue-dark)
+![jirrezx github stats](https://github-readme-stats.vercel.app/api?username=jirrezx&show_icons=true&theme=vue-dark)
