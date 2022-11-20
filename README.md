@@ -10,6 +10,6 @@
 - I'm passionate about OpenSource, despite the META VERSO being completely private :heart:
 - My biggest passions, <code>Arch Linux</code>/<code>Gentoo</code> :penguin:
 - Discord - <a href="https://discord.gg/SHEJQXzV2F">CIDADE VILEZA</a> :video_game:
-- Shop - <a href="https://cidadevileza.hydrus.gg">SHOP CIDADE VILEZA</a> :shopping_cart:
+- Shop - <a href="https://cidadevileza.hydrus.gg">CIDADE VILEZA</a> :shopping_cart:
 
 ![jirrezx github stats](https://github-readme-stats.vercel.app/api?username=jirrezx&show_icons=true&theme=vue-dark)
