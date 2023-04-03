@@ -7,7 +7,7 @@
 
 <h2> About Me:</h2>
 
-- ✨ I currently work as chief developer at Game Power & Euforia, companies in the gamer industry and salute; <br>
+- ✨ I currently work as chief developer at Gamer Power & Euforia, companies in the gamer industry and salute; <br>
 - 🎮 I’m passionate about electronic games;<br>
 - 🙃 I've been programming since 2015, the year I was among the first at a fair in the state, I WON AN INTERNATIONAL TRIP, with a little program, "IAE", made in Python;<br>
 - 🎓 I'm fascinated by any system, any application, if I can produce, program, study or anything else there will be ME! Open Source & Linux amande, more specifically, Arch Linux & Debian.<br>
